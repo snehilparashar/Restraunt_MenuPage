@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restraunt_MenuPage/static/css/main.fe739622.css",
+    "main.js": "/Restraunt_MenuPage/static/js/main.dcfba0bb.js",
+    "index.html": "/Restraunt_MenuPage/index.html",
+    "main.fe739622.css.map": "/Restraunt_MenuPage/static/css/main.fe739622.css.map",
+    "main.dcfba0bb.js.map": "/Restraunt_MenuPage/static/js/main.dcfba0bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe739622.css",
+    "static/js/main.dcfba0bb.js"
+  ]
+}
