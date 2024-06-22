@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe739622.css",
-    "main.js": "/static/js/main.dcfba0bb.js",
-    "index.html": "/index.html",
-    "main.fe739622.css.map": "/static/css/main.fe739622.css.map",
-    "main.dcfba0bb.js.map": "/static/js/main.dcfba0bb.js.map"
+    "main.css": "/Project---Restraunt-Menu-Page-using-React/static/css/main.fe739622.css",
+    "main.js": "/Project---Restraunt-Menu-Page-using-React/static/js/main.dcfba0bb.js",
+    "index.html": "/Project---Restraunt-Menu-Page-using-React/index.html",
+    "main.fe739622.css.map": "/Project---Restraunt-Menu-Page-using-React/static/css/main.fe739622.css.map",
+    "main.dcfba0bb.js.map": "/Project---Restraunt-Menu-Page-using-React/static/js/main.dcfba0bb.js.map"
   },
   "entrypoints": [
     "static/css/main.fe739622.css",
